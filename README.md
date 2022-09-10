@@ -1,4 +1,7 @@
 ### Hi there 👋
+Welcome to my github! I am currently majoring in software at Gachon University!!
+I want to be a developer who challenges and tries.
+🌱Please watch me grow🌱
 
 <!--
 **Seoljingni/Seoljingni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
