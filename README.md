@@ -1,5 +1,6 @@
 # Jieun Seol (Call me seora)
 Hi there 👋 Welcome to my github!  
+  
 I am currently majoring in ✨software✨ at Gachon University!!  
   
 I want to be a developer who challenges and tries.  
